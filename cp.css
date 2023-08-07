@@ -1,0 +1,22 @@
+.a{
+    height: 900px;
+    width: 100%;
+    background-color: whitesmoke;
+    background-image: url('..//images.smile.png');
+}
+.b{
+    height: 900px;
+    width: 100%;
+    background-color: blue;
+}
+.c{
+    height: 900px;
+    width: 100%;
+    background-color: aquamarine;
+}
+i{
+    height: 500px;
+    width: 500px;
+    padding-left: 150px;
+    padding-top: 50px;
+}

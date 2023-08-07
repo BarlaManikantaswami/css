@@ -1,0 +1,51 @@
+.a{
+    border: 5px dotted black;
+    text-align: center;
+    padding: 5px 7px;
+}
+.b{
+    border: 5px dashed black;
+    text-align: center;
+    padding: 5px 7px;
+}
+.c{
+    border: 5px solid black;
+    text-align: center;
+    padding: 5px 7px;
+
+}
+.d{
+    border: 4px double black;
+    text-align: center;
+    padding: 5px 7px;
+}
+.e{
+    border: 5px groove black;
+    text-align: center;
+    padding: 5px 7px;
+}
+.f{
+    border: 5px ridge black;
+    text-align: center;
+    padding: 5px 7px;
+}
+.g{
+    border: 5px inset black;
+    text-align: center;
+    padding: 5px 7px;
+}
+.h{
+    border: 5px outset black;
+    text-align: center;
+    padding: 5px 7px;
+}
+.i{
+    border: 2px none black;
+    text-align: center;
+    padding: 5px 7px;
+}                        
+.j{
+    border: 2px hidden black;
+    text-align: center;
+    padding: 5px 7px;
+}                                                

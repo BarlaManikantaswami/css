@@ -1,0 +1,14 @@
+input[type="text"]{
+    color: blue;
+    font-size: medium;
+}
+input[type="password"]{
+    color: olivedrab;
+}
+input[type="submit"]{
+    background-color: orchid;
+}
+a[href]{
+    font-family: 'Gill Sans';
+    background-color: aquamarine;
+}

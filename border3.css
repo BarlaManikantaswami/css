@@ -1,0 +1,9 @@
+div{ 
+    height: 150px;
+    width: 250px;
+    outline: 8px dashed red;
+    box-shadow: 0 0 0 8px blue;
+    text-align: center;
+    padding-top: 30px;
+}
+

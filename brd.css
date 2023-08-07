@@ -1,0 +1,9 @@
+p.a{
+    border: 30px solid transparent;
+    padding: 15px 15px 15px 15px;
+    border-image: url(boder1img.png) 40 round;float: left;
+    text-align: center;
+    font-family: Verdana;
+}
+
+

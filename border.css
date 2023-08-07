@@ -1,0 +1,15 @@
+.a{
+    border-style: solid;
+    border-color: greenyellow;
+    border-width: 6px;
+    border-radius: 7px;
+}
+.b{
+    text-align: center;
+    border-width: 6px;
+    border-right-style: dotted;
+    border-left-style: dotted;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: aqua olivedrab;
+} 

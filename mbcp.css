@@ -1,0 +1,26 @@
+.b{
+    height: 500px;
+    width: 800px;
+    background-color: gray;
+}
+.c{
+    height: 400px;
+    width: 700px;
+    background-color: orange;
+}
+.d{
+    height: 300px;
+    width: 600px;
+    background-color: grey;
+}
+.e{
+    height: 200px;
+    width: 500px;
+    background-color: cyan;
+}
+*{
+    box-sizing: border-box;
+    margin: 20px;
+    padding: 30px;
+}
+

@@ -1,0 +1,29 @@
+h1{
+    display: inline;
+    background-color: aqua;
+}
+span{
+    display: block;
+    background-color: aquamarine;
+}
+
+
+.a{
+    height: 200px;
+    width: 250px;
+    border: 2px solid red;
+    float: left;
+}
+.b{
+    height: 200px;
+    width: 250px;
+    border: 2px solid greenyellow;
+    float: left;
+    visibility: hidden;
+}
+.c{
+    height: 200px;
+    width: 250px;
+    border: 2px solid olivedrab;
+    float: left;
+}
